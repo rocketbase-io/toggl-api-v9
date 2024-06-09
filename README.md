@@ -18,6 +18,14 @@ can go to the different resources and their metheods
 
 ## usage
 
+````xml
+<dependency>
+    <groupId>io.rocketbase.toggl</groupId>
+    <artifactId>toggl-api-v9</artifactId>
+    <version>${CURRENT_VERSION}</version>
+</dependency>
+````
+
 ````java
 import io.rocketbase.toggl.TogglApi;
 import io.rocketbase.toggl.TogglApiRest;
