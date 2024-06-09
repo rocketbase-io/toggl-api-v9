@@ -32,9 +32,9 @@ SOFTWARE.
     <artifactId>toggl-api-v9</artifactId>
     <version>LATEST-SNAPSHOT</version>
 
-    <name>togglv9</name>
-    <description>java api-client to communicate with toggl v9</description>
-    <url>https://github.com/rocketbase-io/togglv9/</url>
+    <name>toggl-api-v9</name>
+    <description>java api-client to communicate with toggl v9 (track + report)</description>
+    <url>https://github.com/rocketbase-io/toggl-api-v9/</url>
     <inceptionYear>2024</inceptionYear>
 
     <licenses>
@@ -50,9 +50,9 @@ SOFTWARE.
     </issueManagement>
 
     <scm>
-        <connection>scm:git:git://github.com/rocketbase-io/togglv9.git</connection>
-        <developerConnection>scm:git:git@github.com:rocketbase-io/togglv9.git</developerConnection>
-        <url>https://github.com/rocketbase-io/togglv9/tree/master/</url>
+        <connection>scm:git:git://github.com/rocketbase-io/toggl-api-v9.git</connection>
+        <developerConnection>scm:git:git@github.com:rocketbase-io/toggl-api-v9.git</developerConnection>
+        <url>https://github.com/rocketbase-io/toggl-api-v9/tree/master/</url>
     </scm>
 
     <developers>
@@ -119,13 +119,11 @@ SOFTWARE.
             <artifactId>jackson-datatype-jsr310</artifactId>
             <scope>provided</scope>
         </dependency>
-
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <scope>provided</scope>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>

@@ -28,3 +28,11 @@ MeDto response = togglApi.track()
         .me()
         .get();
 ````
+
+Library needs as dependency:
+
+- spring-web
+- jackson-databind
+- jackson-datatype-jsr310
+
+have been marked as provided to go with your project's spring-versions
