@@ -1,7 +1,7 @@
 # toggl-api-v9
 
 ![build](https://github.com/rocketbase-io/toggl-api-v9/actions/workflows/ci.yml/badge.svg)
-[![Maven Central](https://badgen.net/maven/v/maven-central/io.rocketbase.toggl/toggl-api-v9)](https://mvnrepository.com/artifact/io.rocketbase.toggl/toggl-api-v9)
+[![Maven Central](https://badgen.net/maven/v/maven-central/io.rocketbase.toggl/toggl-api-v9)](https://central.sonatype.com/artifact/io.rocketbase.toggl/toggl-api-v9/versions)
 
 Java RestClients for Toggl APIv9
 
